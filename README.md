@@ -1,5 +1,6 @@
 # Movimiento ondulatorio
-## Visualizar la fórmula del movimiento ondulatorio
+
+**Visualizar la fórmula del movimiento ondulatorio**
 
 https://kykvit.com/experiments/movimiento_ondulatorio/onda_cuerda.html
 
